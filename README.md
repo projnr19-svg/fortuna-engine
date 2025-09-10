@@ -1,2 +1,3 @@
 # fortuna-engine
-Python predictive analytics engine
+Python scripts, datasets, data pipelines
+
